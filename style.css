@@ -1,0 +1,17 @@
+body{
+    background-color: lightgrey;
+}
+p.abbr{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid black;
+    padding: 2px;
+}
+#bq{
+    text-align: center;
+}
+blockquote{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    font-size: 14px;
+    margin: 20px;
+}
